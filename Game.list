@@ -1,6 +1,6 @@
 #Arena of Valor
 host-keyword, intlgame,游戏节点
-host-keyword, adjust ,游戏节点
+host-wildcard, app.adjust.*,游戏节点
 host, image.ngame.proximabeta.com,游戏节点
 host, us.api.globalgme.com,游戏节点
 host, midas.singaporepaya.com,游戏节点
