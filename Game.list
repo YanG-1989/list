@@ -1,11 +1,11 @@
 #Arena of Valor
 host-keyword, intlgame,游戏节点
+host-keyword, app.adjust ,游戏节点
 host, image.ngame.proximabeta.com,游戏节点
 host, us.api.globalgme.com,游戏节点
 host, midas.singaporepaya.com,游戏节点
 host, hwconfig.gcloudcs.com,游戏节点
 host, sg.tdatamaster.com,游戏节点
-host, app.adjust.com,游戏节点
 host, gs.asia.ngame.proximabeta.com,游戏节点
 host,sg-bugly-ios.iegcom.com,游戏节点
 ip-cidr, 43.134.149.196/32,游戏节点
