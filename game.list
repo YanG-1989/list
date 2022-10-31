@@ -1,0 +1,8 @@
+#Arena of Valor
+host, sg.intlgame.com
+host, sg.tdatamaster.com
+host, app.adjust.com
+host, sg-dr.intlgame.com
+host, gs.asia.ngame.proximabeta.com
+host,sg-bugly-ios.iegcom.com
+ip-cidr, 43.134.149.196/32
