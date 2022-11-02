@@ -1,6 +1,7 @@
 #IPTV源分流
 host, epg.pm, 全球加速
 host, epg.112114.xyz, 全球加速
+host, stream01.willfonk.com 全球加速
 host-keyword, hkdtmb, 香港节点
 host-keyword, hklive, 香港节点
 ip-cidr, 220.134.196.147/32, 台湾节点
