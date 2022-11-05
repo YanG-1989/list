@@ -1,7 +1,6 @@
 #IPTV源分流
 #epg
-host, epg.pm,全球加速
-host, epg.112114.xyz,全球加速
+host-keyword, epg,优选节点
 #日本源
 host, stream01.willfonk.com,全球加速
 #香港源
