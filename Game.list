@@ -1,6 +1,7 @@
 #Arena of Valor
 host-keyword, intlgame,游戏节点
-host, cp.cloudflare.com ,游戏节点
+host, sandbox.itunes.apple.com,游戏节点
+host, cp.cloudflare.com,游戏节点
 host, rs.asia.ngame.proximabeta.com,游戏节点
 host, sg.gvoice.iegcom.com,游戏节点
 host, app.adjust.com,游戏节点
