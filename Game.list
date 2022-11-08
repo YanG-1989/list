@@ -13,3 +13,5 @@ host, sg.tdatamaster.com,游戏节点
 host, gs.asia.ngame.proximabeta.com,游戏节点
 host,sg-bugly-ios.iegcom.com,游戏节点
 ip-cidr, 43.134.149.196/32,游戏节点
+ip-cidr, 150.109.29.118/32,游戏节点
+ip-cidr, 101.32.108.203/32,游戏节点
