@@ -2,7 +2,7 @@
 #epg
 #host-keyword, epg,优选节点
 #日本源
-#host, stream01.willfonk.com,全球加速
+host, stream01.willfonk.com,全球加速
 #香港源
 host-keyword, hkdtmb,香港节点
 host-keyword, hklive,香港节点
