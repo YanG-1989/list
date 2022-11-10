@@ -12,6 +12,6 @@ host-suffix, btsw-ott2b.cdn.hinet.net, 台湾节点
 host-suffix, cdn257.ccdntech.com, 台湾节点
 host-suffix, modfree-hamivideo.cdn.hinet.net, 台湾节点
 ip-cidr, 220.134.196.147/32, 台湾节点
-ip-cidr, 50.7.220.74/32, 台湾节点
+#ip-cidr, 50.7.220.74/32, 台湾节点
 #其他源
 host,fash1043.cloudycdn.services,全球加速
