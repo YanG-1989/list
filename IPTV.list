@@ -4,14 +4,13 @@ host-keyword,epg,全球加速
 #日本源
 host,stream01.willfonk.com,全球加速
 #香港源
-host-keyword,hkdtmb,香港节点
-host-keyword,hklive,香港节点
 ip-cidr,198.16.64.10/32,香港节点
+ip-cidr, 50.7.220.74/32, 香港节点
 #台湾源
 host-suffix, btsw-ott2b.cdn.hinet.net, 台湾节点
 host-suffix, cdn257.ccdntech.com, 台湾节点
 host-suffix, modfree-hamivideo.cdn.hinet.net, 台湾节点
 ip-cidr, 220.134.196.147/32, 台湾节点
-ip-cidr, 50.7.220.74/32, 台湾节点
+
 #其他源
 host,fash1043.cloudycdn.services,全球加速
