@@ -1,6 +1,6 @@
 #IPTV源分流
 #epg
-host-keyword,epg,全球加速
+DOMAIN-keyword,epg,全球加速
 #日本源
 host,stream01.willfonk.com,全球加速
 #香港源
