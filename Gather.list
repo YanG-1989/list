@@ -1,0 +1,36 @@
+# > 黑白名单
+host-suffix, ahhhhfs.com, 全球加速
+# > IPTV·源
+#epg
+host-keyword,epg,全球加速
+#日本源
+host,stream01.willfonk.com,全球加速
+#香港源
+ip-cidr,198.16.64.10/32,香港节点
+ip-cidr,50.7.220.74/32,香港节点
+#台湾源
+host-suffix,btsw-ott2b.cdn.hinet.net,台湾节点
+host-suffix,cdn257.ccdntech.com,台湾节点
+host-suffix,modfree-hamivideo.cdn.hinet.net, 台湾节点
+ip-cidr,220.134.196.147/32,台湾节点
+#其他源
+host,fash1043.cloudycdn.services,全球加速
+# > Arena of Valor
+host-keyword, intlgame,游戏节点
+host, rs.asia.ngame.proximabeta.com,游戏节点
+host, sg.gvoice.iegcom.com,游戏节点
+host, app.adjust.com,游戏节点
+host, image.ngame.proximabeta.com,游戏节点
+host, us.api.globalgme.com,游戏节点
+host, midas.singaporepaya.com,游戏节点
+host, hwconfig.gcloudcs.com,游戏节点
+host, sg.tdatamaster.com,游戏节点
+host, gs.asia.ngame.proximabeta.com,游戏节点
+host, sg-bugly-ios.iegcom.com,游戏节点
+ip-cidr, 43.134.149.196/32,游戏节点
+ip-cidr, 150.109.29.118/32,游戏节点
+ip-cidr, 101.32.108.203/32,游戏节点
+# > HDOBOX·去广告
+host-suffix, applovin.com, reject
+host-suffix, applvn.com, reject
+host-suffix, doubleclick.net, reject
