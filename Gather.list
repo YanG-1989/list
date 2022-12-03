@@ -14,6 +14,8 @@ host-suffix,modfree-hamivideo.cdn.hinet.net, 台湾节点
 ip-cidr,220.134.196.147/32,台湾节点
 #其他
 host,fash1043.cloudycdn.services,全球加速
+# > Google Voice
+host, lens.l.google.com, 美国节点
 # > Arena of Valor
 host-keyword, intlgame,游戏节点
 host, rs.asia.ngame.proximabeta.com,游戏节点
