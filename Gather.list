@@ -2,7 +2,7 @@
 host-suffix, ahhhhfs.com, 全球加速
 # > IPTV·源
 #epg
-host-keyword,epg,全球加速
+#host-keyword,epg,全球加速
 #日本
 host,stream01.willfonk.com,全球加速
 #港澳台
