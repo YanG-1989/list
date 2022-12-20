@@ -1,6 +1,9 @@
 # > 黑名单
 host-suffix, ahhhhfs.com, 全球加速
 host-suffix, upstract.com, 全球加速
+host-suffix, legs.a-hadaka.jp, 全球加速
+host-suffix, jable.tv, 全球加速
+host-suffix, missav.com, 全球加速
 # > IPTV·源
 #epg
 #host-keyword,epg,全球加速
