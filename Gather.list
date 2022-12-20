@@ -1,5 +1,6 @@
-# > 黑白名单
+# > 黑名单
 host-suffix, ahhhhfs.com, 全球加速
+host-suffix, upstract.com, 全球加速
 # > IPTV·源
 #epg
 #host-keyword,epg,全球加速
