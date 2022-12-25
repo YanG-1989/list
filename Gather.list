@@ -18,6 +18,7 @@ host-suffix,cdn257.ccdntech.com,台湾节点
 host-suffix,modfree-hamivideo.cdn.hinet.net, 台湾节点
 ip-cidr,220.134.196.147/32,台湾节点
 #其他
+host,line.premiumpowers.net,全球加速
 host,fash1043.cloudycdn.services,全球加速
 # > Google Voice
 host, lens.l.google.com, 美国节点
